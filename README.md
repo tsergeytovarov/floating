@@ -6,11 +6,11 @@ Floating navigation - jquery plugin
 This easy to use!
 
 
-In HTML you write
+In HTML you create an ul>li elements and add class='floating' to ul element.
 
-<ul>
-  <li><a href='#'>Menu item</a></li>
-  <li><a href='#'>Menu item</a></li>
-  <li><a href='#'>Menu item</a></li>
-  <li><a href='#'>Menu item</a></li>
-</ul>
+If you want to customize an float element, you can change it in the css file. 
+
+An example - look in navigation
+http://ourworkspace.ru/project/legion/ermitage/
+
+or you can look in the imdex.html file
