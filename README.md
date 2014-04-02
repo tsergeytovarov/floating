@@ -13,4 +13,4 @@ If you want to customize an float element, you can change it in the css file.
 An example - look in navigation
 http://ourworkspace.ru/project/legion/ermitage/
 
-or you can look in the imdex.html file
+or you can look in the index.html file
